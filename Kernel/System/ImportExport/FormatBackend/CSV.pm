@@ -1,5 +1,5 @@
 # --
-# Copyright (C) 2001-2018 OTRS AG, https://otrs.com/
+# Copyright (C) 2001-2018 LIGERO AG, https://ligero.com/
 # --
 # This software comes with ABSOLUTELY NO WARRANTY. For details, see
 # the enclosed file COPYING for license information (GPL). If you
@@ -288,7 +288,7 @@ sub ImportDataGet {
     # it is important to use this syntax "while ( !eof($FH) )"
     # as the CPAN module Text::CSV_XS might show errors if the
     # getline call is within the while test
-    # have a look at http://bugs.otrs.org/show_bug.cgi?id=9270
+    # have a look at http://bugs.ligero.org/show_bug.cgi?id=9270
     while ( !eof($FH) ) {
         my $Column = $ParseObject->getline($FH);
         push @ImportData, $Column;
@@ -435,7 +435,7 @@ sub ExportDataSave {
 
 =head1 TERMS AND CONDITIONS
 
-This software is part of the OTRS project (L<https://otrs.org/>).
+This software is part of the LIGERO project (L<https://ligero.org/>).
 
 This software comes with ABSOLUTELY NO WARRANTY. For details, see
 the enclosed file COPYING for license information (GPL). If you

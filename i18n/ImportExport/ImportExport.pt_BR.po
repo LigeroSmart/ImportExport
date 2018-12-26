@@ -3,14 +3,14 @@
 # Edicarlos Lopes Santos <esantos@beonup.com.br>, 2016
 # Gilberto José Souza Coutinho <gilberto.jsc@gmail.com>, 2017
 # Marcos Aurélio Silvério <marcos.aurelio@infracerta.com.br>, 2014
-# Ricardo von Staa <ricardo.von.staa@otrs.com>, 2017
+# Ricardo von Staa <ricardo.von.staa@ligero.com>, 2017
 msgid ""
 msgstr ""
-"Project-Id-Version: OTRS\n"
+"Project-Id-Version: LIGERO\n"
 "POT-Creation-Date: 2017-10-10 14:08+0000\n"
 "PO-Revision-Date: 2017-12-31 21:57+0000\n"
-"Last-Translator: Ricardo von Staa <ricardo.von.staa@otrs.com>\n"
-"Language-Team: Portuguese (Brazil) (http://www.transifex.com/otrs/OTRS/language/pt_BR/)\n"
+"Last-Translator: Ricardo von Staa <ricardo.von.staa@ligero.com>\n"
+"Language-Team: Portuguese (Brazil) (http://www.transifex.com/ligero/LIGERO/language/pt_BR/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
